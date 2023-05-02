@@ -27,7 +27,7 @@ The project uses the following technologies:
 - **Databse**: [H2](http://www.h2database.com)
 - **Testing**: [junit](https://junit.org/junit4/), [hamcrest](http://hamcrest.org/JavaHamcrest/), [mockito](http://mockito.org/)
 
-# License
+# license
 Copyright 2018 Piotr Przechodzki
 
 Licensed under the Apache License, Version 2.0 (the "License");
